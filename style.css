@@ -1,0 +1,49 @@
+svg {
+    width: 150px;
+    height: 150px;
+}
+.fb {
+    fill: green;
+    stroke: black;
+    stroke-width: 10px;
+
+    transition: .2s linear;
+}
+.fb:hover {
+    fill: red;
+}
+.inst {
+    fill: blueviolet;
+    transition: .2s linear;
+}
+.inst:hover {
+    fill: brown;
+}
+.tel {
+    fill: burlywood;
+    transition: .2s linear; 
+}
+.tel:hover {
+    fill: olive;
+}
+.tw {
+    fill:orangered;
+    transition: .2s linear; 
+}
+.tw:hover {
+    fill: royalblue;
+}
+.video {
+    fill: brown;
+    transition: .2s linear; 
+}
+.video:hover {
+    fill: cadetblue;
+}
+.app {
+    fill: coral;
+    transition: .2s linear; 
+}
+.app:hover {
+    fill: darkgreen;
+}
